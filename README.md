@@ -13,4 +13,6 @@ Go into directory and run `make` to create the file `yash` run with `./yash`
 * Has pipes (limited to one pipe per command)
 * Has input and output redirection (STDIN, STDOUT, STDERR)
 
+## disclaimer
 
+* Don't use this for your project. Doing this lab teaches you important things and servers to refresh ur C knowledge
